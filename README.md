@@ -2,7 +2,7 @@
 
 Meu nome é Thayla Danubya
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaeScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
@@ -10,5 +10,6 @@ Meu nome é Thayla Danubya
 
  miranda.almeida@escola.pr.gov.br
 
- https://tenor.com/bmHNa.gif
+![image](https://github.com/user-attachments/assets/b7f1b144-626f-4c29-885c-59f0135a2dd0)
+
  
